@@ -1,0 +1,14 @@
+{
+  "project_name": "Drei Familienhäuser – R290 Luft-Wasser",
+  "houses": 3,
+  "refrigerant": "R290 / Propan",
+  "heat_pump_type": "Luft-Wasser-Wärmepumpe",
+  "insulation_cm": 18,
+  "windows": "Dreifachverglasung",
+  "annual_heat_demand_kwh": 17000,
+  "target_flow_temperature_c": 45,
+  "seasonal_cop": 3.3,
+  "investment_gross_eur": 67500,
+  "subsidy_rate": 0.35,
+  "subsidy_source": "Stadt"
+}
